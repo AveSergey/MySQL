@@ -1,0 +1,1 @@
+ALTER TABLE shop.users modify column created_at datetime, modify column updated_at datetime; 
